@@ -1,0 +1,49 @@
+a:link {color: #000;}
+a:visited {color: #000;}
+a:hover {color: #000; text-decoration: none;}
+a:active {color: #000;}
+
+p.a{
+	font-family: 'Fredericka the Great', cursive;
+	font-size: 78px;
+	text-shadow: #F7F7F7 0px 0px 0px;
+	letter-spacing: -0.049em;
+	color: #404040;
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+	font: 10px verdana, sans serif;
+	color: #000;
+}
+
+#h1 {
+	position: absolute;
+	top: 0px;
+	height: 35px;
+	width: 100%;
+	background-color: #FFF;
+}
+
+#h2 {
+	position: absolute;
+	top: 35px;
+	height: 70px;
+	width: 100%;
+}
+
+#main {
+	position: absolute;
+	top: 35%;
+	width: 100%;
+	text-align: center;
+	line-height: 0%;
+}
+
+#f1 {
+	position: absolute;
+	bottom: 0px;
+	height: 70px;
+	width: 100%;
+}
